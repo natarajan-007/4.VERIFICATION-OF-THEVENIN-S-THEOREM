@@ -1,4 +1,4 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+ # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 **AIM:**
 
@@ -78,3 +78,14 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**TABULATION AND CALCULATION:**
+![WhatsApp Image 2026-03-25 at 10 45 50 PM](https://github.com/user-attachments/assets/bf809c37-5da4-4fa5-a546-55e7be73acbc)
+![WhatsApp Image 2026-03-25 at 10 45 51 PM](https://github.com/user-attachments/assets/8ba1f6eb-a191-4d2d-86cb-91ba97d10ae2)
+
+**MARK SPLIT-UP:**
+ ![WhatsApp Image 2026-03-25 at 11 20 46 PM](https://github.com/user-attachments/assets/96811dfc-7cb6-4eb6-a4d9-daf6589fbf36)
+
+**RESULT:**
+
+Thus Thevenin‟s theorem is verified practically and theoretically
